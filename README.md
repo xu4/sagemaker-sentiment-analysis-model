@@ -39,4 +39,6 @@ jupyter notebook SageMaker Project.ipynb
 
 
 ### Report
-An HTML export of the project notebook. [Report.html](report.html) 
+An HTML export of the project notebook. [report.html](report.html) 
+
+A PDF of the project notebook. [report.pdf](report.pdf) 
